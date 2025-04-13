@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: LVSP
 - ⚡ Fun fact: I Am Human.
 -->
+![image alt](https://github.com/LavaSpoon-LVSP/LavaSpoon-LVSP/blob/38d9415f4bac42ea2090171745f682e625748c25/logo.png)
