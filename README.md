@@ -102,6 +102,7 @@ A world where anyone can contribute to, benefit from, and co-own the next genera
 
 Telegram: [https://t.me/lavaspoon1](https://t.me/lavaspoon1)  
 Twitter/X: [@LavaSpoon_LVSP](https://twitter.com/LavaSpoon_LVSP)  
-GitHub: [github.com/LavaSpoon-LVSP](https://github.com/LavaSpoon-LVSP)
+Instagram: [@lavaspoon_lvsp](https://www.instagram.com/lavaspoon_lvsp/profilecard/?igsh=YXFjcGN6ZWVxd2pk)
+
 
 > Built by the community, for the community. LavaSpoon is just getting started.
