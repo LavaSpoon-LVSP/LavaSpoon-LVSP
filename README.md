@@ -9,7 +9,7 @@ Join us on this journey of innovation, ownership, and open creation.
 - 🌱 Learning how to build web projects, smart contracts & creative tools
 - 💬 Ask me about anything design, crypto, or AI-related
 - 📫 Telegram: [https://t.me/lavaspoon1](https://t.me/lavaspoon1)
-- ⚡ Fun fact: LVSP = 🔥 + 🍴
+- ⚡ Fun fact: LVSP = 🔥 + 🥄
 
 ---
 
@@ -27,13 +27,13 @@ To empower creatives, developers, and entrepreneurs by providing open tools, tra
 
 - Create – Build creative or tech projects with community support.
 - Collaborate – Work with a global network of like-minded builders.
-- Own – Share in success through token-based incentives and NFT assets.
+- Own – Share in success through token-based incentives.
 
 ### Platform Goals
 
-- Launch NFT-based utility collections  
 - Build on-chain tools for creators (AI, smart contracts, funding models)  
 - Empower governance through community voting  
+- Fund decentralized innovation with token incentives  
 
 ### Why “LavaSpoon”?
 
@@ -72,7 +72,7 @@ A world where anyone can contribute to, benefit from, and co-own the next genera
 - Community Governance 
   Token holders propose and vote on key decisions, from development priorities to community fund usage.
 
-- Builder Incentives  
+- Builder Incentives
   Rewards for contributors through bounties, grants, and recognition systems.
 
 - Fair Tokenomics 
@@ -83,8 +83,8 @@ A world where anyone can contribute to, benefit from, and co-own the next genera
 ### Token Utility
 
 - Vote on proposals  
-- Stake for rewards and access  
-- Fund new ideas  
+- Stake for rewards and access
+- Fund new ideas 
 - Access exclusive features
 
 ---
@@ -105,5 +105,3 @@ Twitter/X: [@LavaSpoon_LVSP](https://twitter.com/LavaSpoon_LVSP)
 GitHub: [github.com/LavaSpoon-LVSP](https://github.com/LavaSpoon-LVSP)
 
 > Built by the community, for the community. LavaSpoon is just getting started.
-
----
