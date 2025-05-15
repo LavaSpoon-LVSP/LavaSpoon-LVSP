@@ -106,3 +106,68 @@ Instagram: [@lavaspoon_lvsp](https://www.instagram.com/lavaspoon_lvsp/profilecar
 
 
 > Built by the community, for the community. LavaSpoon is just getting started.
+
+
+# LVSP Token Allocation & Transparency Report
+
+## 🧠 About LVSP
+
+LVSP is a utility token powering the ViewAI ecosystem — focused on decentralized AI innovation, community rewards, and ethical digital growth.
+
+---
+
+## 📊 Tokenomics
+
+Total Supply: 100,000,000 LVSP
+
+| Purpose                   | Allocation | Wallet Address                                               |
+|---------------------------|------------|--------------------------------------------------------------|
+| AI Development & Research | 40%        | 979iF5V2B1zjoU4tVyRw5KQNsP55JfPYdtepiiT4UnDi                 |
+| Community & Rewards       | 25%        | 4zYr7zzekDwJq9Jfn9rdPc49LpXvubxajjEQpp3EWBoa                 |
+| Liquidity & Staking       | 20%        | BAoijpobQepPFV9AVb6jkuQt5zMv66CwVDbc44kRpMas                 |
+| Marketing & Partnerships  | 10%        | 785Mrf2QY9Y9TWocuzaXd4CV9cWXHKpRHz7PFzYjmmnD                 |
+| Team & Advisors           | 5%         | 8DvdmqFgoEec5xn3juGFFW65wYWcXBzkcs9cReYLK6DX                 |
+
+---
+
+## 🔁 Liquidity Correction & Transparency Statement
+
+During our early testing phase, 20,000,000 LVSP tokens were launched into the market with low liquidity (less than 0.5 SOL total).
+
+This caused instability and a poor reflection of the token's value.
+
+### ✅ What We Did:
+- The founder manually re-purchased 7,100,000 LVSP from that batch.
+- These tokens are now being reintegrated with a strong liquidity pool:  
+  `1 SOL per 1,000,000 LVSP`.
+- The remaining 12.9M tokens are either:
+  - Inactive
+  - Burned
+  - Held by early supporters
+
+### 📌 Lesson:
+> We take full responsibility and commit to higher liquidity standards for all future launches.
+
+Transparency is key — Solana blockchain records are open and verifiable. View transactions [on Solscan](https://solscan.io).
+
+---
+
+## 🔜 What's Next?
+
+- 🔄 New liquidity pool with corrected ratio (live soon)
+- 📱 TikTok, Telegram, GitHub and X (twitter) announcements
+- 🧠 AI View prototype showcase (Q3)
+- 📈 CEX listing plans begin after community vote (TBA)
+
+---
+
+## 🔗 Connect with Us
+
+- 🌐 Website: [lavaspoon.com](https://lavaspoon.com)
+- 📲 TikTok: [@LVSPResearchFund](https://www.tiktok.com/@lavaspoon1?_t=ZN-8vOWWSaLmHW&_r=1)
+- 🧵 Twitter: [@ViewAIOfficial](https://x.com/LavaSpoon_LVSP?t=tfyDfLknDWbdgvvW5oiAdw&s=08)
+- 📬 Telegram: [t.me/ViewAI_LVSP](https://t.me/boost/lavaspoon1)
+
+---
+
+All wallets are public, trackable, and transparent. ViewAI and LVSP stand for ethical AI with open accountability.
