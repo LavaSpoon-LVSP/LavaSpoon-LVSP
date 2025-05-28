@@ -91,7 +91,7 @@ A world where anyone can contribute to, benefit from, and co-own the next genera
 ---
 
 ## Join Us  
-• Telegram: https://t.me/lavaspoon1  
+• Telegram: https://t.me/lavaspoonlvsp  
 • Twitter/X: @LavaSpoon_LVSP  
 • Instagram: @lavaspoon_lvsp  
 
