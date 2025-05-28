@@ -58,10 +58,10 @@ We’re committed to full transparency and long-term project sustainability. As 
 #### 🔒 Locked Wallets:
 
 1. AI Development & Research – 40% Allocation
-🔗 [View Lock Contract](https://app.streamflow.finance/contract/solana/mainnet/3j5aF8iHqjHhijqpr9utSmp1RCyzp8pj95pUErKCCsey)
+🔗 [View Lock Contract](https://app.streamflow.finance/contract/solana/mainnet/HkW6vfYdsZYLjSZC5psVk5ddRGCChtMz9Ma9ZNz4BEKn)
 
 2. Marketing & Partnerships – 10% Allocation
-🔗 [View Lock Contract](https://app.streamflow.finance/contract/solana/mainnet/HkW6vfYdsZYLjSZC5psVk5ddRGCChtMz9Ma9ZNz4BEKn)
+🔗 [View Lock Contract](https://app.streamflow.finance/contract/solana/mainnet/3j5aF8iHqjHhijqpr9utSmp1RCyzp8pj95pUErKCCsey)
 
 3. Team & Advisors – 5% Allocation
 🔗 [View Lock Contract](https://app.streamflow.finance/contract/solana/mainnet/ESX7tPdv6Wskr5GiXoageCKzsvhcJyZA1uwRHN4t8f27)
