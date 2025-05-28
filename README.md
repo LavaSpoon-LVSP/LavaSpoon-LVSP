@@ -26,9 +26,9 @@ To empower creatives, developers, and entrepreneurs by providing open tools, tra
 ---
 
 ### Core Concepts  
-• **Create** – Build creative or tech projects with community support.  
-• **Collaborate** – Work with a global network of like-minded builders.  
-• **Own** – Share in success through token-based incentives.
+• Create – Build creative or tech projects with community support.  
+• Collaborate – Work with a global network of like-minded builders.  
+• Own – Share in success through token-based incentives.
 
 ---
 
@@ -47,7 +47,7 @@ Together, they symbolize fluid creativity with real-world impact.
 ---
 
 ## Stay tuned for more updates, launches, and tools.  
-**Join our community:** https://t.me/lavaspoon1
+Join our community: https://t.me/lavaspoonlvsp
 
 ---
 
@@ -67,10 +67,10 @@ A world where anyone can contribute to, benefit from, and co-own the next genera
 ---
 
 ### Core Features  
-• **Open-Source Tools** – Build and deploy decentralized applications, utilities, and assets.  
-• **Community Governance** – Token holders propose and vote on key decisions, from development priorities to community fund usage.  
-• **Builder Incentives** – Rewards for contributors through bounties, grants, and recognition systems.  
-• **Fair Tokenomics** – Transparent token distribution that supports builders, the community, and long-term sustainability.
+• Open-Source Tools – Build and deploy decentralized applications, utilities, and assets.  
+• Community Governance – Token holders propose and vote on key decisions, from development priorities to community fund usage.  
+• Builder Incentives – Rewards for contributors through bounties, grants, and recognition systems.  
+• Fair Tokenomics – Transparent token distribution that supports builders, the community, and long-term sustainability.
 
 ---
 
@@ -83,10 +83,10 @@ A world where anyone can contribute to, benefit from, and co-own the next genera
 ---
 
 ### Roadmap Highlights  
-• **Q2 2025** – Core platform launch (beta)  
-• **Q3 2025** – Governance portal live  
-• **Q4 2025** – Grant pool & community voting  
-• **2026** – Ecosystem expansion + cross-chain tools
+• Q2 2025 – Core platform launch (beta)  
+• Q3 2025 – Governance portal live  
+• Q4 2025 – Grant pool & community voting  
+• 2026 – Ecosystem expansion + cross-chain tools
 
 ---
 
@@ -97,7 +97,7 @@ A world where anyone can contribute to, benefit from, and co-own the next genera
 
 ---
 
-**Built by the community, for the community. LavaSpoon is just getting started.**
+Built by the community, for the community. LavaSpoon is just getting started.
 
 ---
 
@@ -110,19 +110,19 @@ LVSP is a utility token powering the ViewAI ecosystem — focused on decentraliz
 
 ## 📊 Tokenomics Overview
 
-**Total Supply:** 100,000,000 LVSP  
-**Blockchain:** Solana  
-**Standard:** SPL Token
+Total Supply: 100,000,000 LVSP  
+Blockchain: Solana  
+Standard: SPL Token
 
 | Purpose                 | Allocation | Wallet Address                                                |
 |------------------------|------------|----------------------------------------------------------------|
-| AI Development & Research | 40%        | `979iF5V2B1zjoU4tVyRw5KQNsP55JfPYdtepiiT4UnDi` *(Locked)*       |
-| Community & Rewards     | 25%        | `4zYr7zzekDwJq9Jfn9rdPc49LpXvubxajjEQpp3EWBoa` *(Ongoing)*     |
-| Liquidity & Staking     | 20%        | `BAoijpobQepPFV9AVb6jkuQt5zMv66CwVDbc44kRpMas` *(16% Distributed)* |
-| Marketing & Partnerships| 10%        | `785Mrf2QY9Y9TWocuzaXd4CV9cWXHKpRHz7PFzYjmmnD` *(Locked)*       |
-| Team & Advisors         | 5%         | `8DvdmqFgoEec5xn3juGFFW65wYWcXBzkcs9cReYLK6DX` *(Locked)*       |
+| AI Development & Research | 40%        | `979iF5V2B1zjoU4tVyRw5KQNsP55JfPYdtepiiT4UnDi` (Locked)      |
+| Community & Rewards     | 25%        | `4zYr7zzekDwJq9Jfn9rdPc49LpXvubxajjEQpp3EWBoa` (Ongoing)     |
+| Liquidity & Staking     | 20%        | `BAoijpobQepPFV9AVb6jkuQt5zMv66CwVDbc44kRpMas` (16% Distributed) |
+| Marketing & Partnerships| 10%        | `785Mrf2QY9Y9TWocuzaXd4CV9cWXHKpRHz7PFzYjmmnD` (Locked)       |
+| Team & Advisors         | 5%         | `8DvdmqFgoEec5xn3juGFFW65wYWcXBzkcs9cReYLK6DX` (Locked)       |
 
-🔒 **Locked wallets until November 24, 2025, 08:00 AM via Streamflow:**
+🔒 Locked wallets until November 24, 2025, 08:00 AM via Streamflow:
 - [AI Development](https://app.streamflow.finance/contract/solana/mainnet/HkW6vfYdsZYLjSZC5psVk5ddRGCChtMz9Ma9ZNz4BEKn)
 - [Marketing & Partnerships](https://app.streamflow.finance/contract/solana/mainnet/3j5aF8iHqjHhijqpr9utSmp1RCyzp8pj95pUErKCCsey)
 - [Team & Advisors](https://app.streamflow.finance/contract/solana/mainnet/ESX7tPdv6Wskr5GiXoageCKzsvhcJyZA1uwRHN4t8f27)
@@ -140,10 +140,10 @@ LVSP is a utility token powering the ViewAI ecosystem — focused on decentraliz
 
 ## 🗺️ Roadmap Highlights
 
-- **Q2 2025** – Core Platform Beta Launch  
-- **Q3 2025** – Governance Portal Goes Live  
-- **Q4 2025** – Grant Pool & Community Voting  
-- **2026** – Cross-chain ecosystem expansion
+- Q2 2025 – Core Platform Beta Launch  
+- Q3 2025 – Governance Portal Goes Live  
+- Q4 2025 – Grant Pool & Community Voting  
+- 2026 – Cross-chain ecosystem expansion
 
 ---
 
@@ -164,7 +164,7 @@ LVSP is a utility token powering the ViewAI ecosystem — focused on decentraliz
 
 ## 💡 Fun Fact
 
-> **LVSP = 🔥 Lava + 🥄 Spoon = Creative Energy in Action**
+> LVSP = 🔥 Lava + 🥄 Spoon = Creative Energy in Action
 
 ---
 
