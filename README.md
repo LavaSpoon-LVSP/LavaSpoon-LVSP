@@ -260,7 +260,7 @@ This allocation comes from the Community & Rewards wallet (25% of total token su
 
 * 📦 Wallet Address: `4zYr7zzekDwJq9Jfn9rdPc49LpXvubxajjEQpp3EWBoa`
 * 🔗 Streamflow Contract: [View on Streamflow](https://app.streamflow.finance/contract/solana/mainnet/6ikfGDHs6qSVURDAc4REAU98yV6g5VZH4jomvHS64dNr)
-* 🔒 Lock Duration: Until 31 August 2025, 08:00 AM CET*
+* 🔒 Lock Duration: Until 31 August 2025, 08:00 AM CET
 
 ---
 
