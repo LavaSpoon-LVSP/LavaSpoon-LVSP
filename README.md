@@ -210,9 +210,9 @@ Transparency is key — Solana blockchain records are open and verifiable. View 
 ## 🔗 Connect with Us
 
 - 🌐 Website: [lavaspoon.com](https://lavaspoon.com)
-- 📲 TikTok: [@LVSPResearchFund](https://www.tiktok.com/@lavaspoon_lvsp?_t=ZG-8wcyVTPJtXk&_r=1)
-- 🧵 Twitter: [@ViewAIOfficial](https://x.com/LavaSpoon_LVSP?t=tfyDfLknDWbdgvvW5oiAdw&s=08)
-- 📬 Telegram: [t.me/ViewAI_LVSP](https://t.me/boost/lavaspoonlvsp)
+- 📲 TikTok: [@lavaspoon_LVSP](https://www.tiktok.com/@lavaspoon_lvsp?_t=ZG-8wcyVTPJtXk&_r=1)
+- 🧵 Twitter: [@lavaspoon_LVSP](https://x.com/LavaSpoon_LVSP?t=tfyDfLknDWbdgvvW5oiAdw&s=08)
+- 📬 Telegram: [lavaspoonlvsp](https://t.me/boost/lavaspoonlvsp)
 
 ---
 
