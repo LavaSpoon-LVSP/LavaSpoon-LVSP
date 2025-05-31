@@ -218,11 +218,6 @@ Transparency is key — Solana blockchain records are open and verifiable. View 
 
 All wallets are public, trackable, and transparent. ViewAI and LVSP stand for ethical AI with open accountability.
 
----
-Sure! Here’s a professional and transparent **GitHub announcement** you can post to publicly confirm the token locks on Streamflow for the three wallets until **24 November 2025, 08:00**:
-
----
-
 ### 🔐 Token Lock Announcement – LavaSpoon (LVSP)
 
 We’re committed to full transparency and long-term project sustainability. As part of our strategic token allocation plan, we have locked 3 key wallets through Streamflow until 24 November 2025 at 08:00 CET.
@@ -249,6 +244,50 @@ Thank you for your continued support.
 — Team LavaSpoon
 
 ---
+
+## 🔐 Token Lock Announcement – LavaSpoon (LVSP)
+
+At LavaSpoon, transparency, trust, and community value are at the core of everything we build.
+
+As part of our commitment to prevent rug pulls and ensure long-term stability, 5% of the total token supply (that’s 5 million LVSP out of 25 million) has been reserved specifically for airdrops, and is securely locked on Streamflow.
+
+This allocation comes from the Community & Rewards wallet (25% of total supply):
+📦 Wallet Address: `4zYr7zzekDwJq9Jfn9rdPc49LpXvubxajjEQpp3EWBoa`
+🔗 Streamflow Contract: View on Streamflow
+🔒 Lock Duration: Until 31 August 2025, 08:00 AM CET
+---
+
+### 💡 Why We Locked It
+
+* ✅ Prevent sudden dumps and manipulation
+* 💎 Make LVSP rarer and more valuable
+* 🌍 Build long-term community trust
+* 📊 Create stable, predictable tokenomics
+
+The 5% airdrop reserve is part of an ongoing release plan, designed to reward early supporters and keep the community growing in a healthy, organic way.
+
+---
+
+### 🔥 Total Community & Rewards Allocation: 25%
+
+🎁 5% Airdrops (Ongoing)
+💬 20% Future incentives, staking rewards, and community programs
+
+All contracts and wallets are publicly visible for maximum transparency.
+
+---
+
+### 🧠 Building Ethical, Decentralized AI – Together
+
+LVSP isn't just a token — it's a mission. With your support, we're powering ViewAI and the future of ethical AI on the blockchain.
+
+We’re here for the long run.
+No rugs. No shortcuts.
+Only vision, tech, and transparency.
+
+→ Follow the journey. Earn the rewards. Shape the future.
+
+
 
 
 
