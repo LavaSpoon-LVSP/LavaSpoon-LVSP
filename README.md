@@ -319,7 +319,7 @@ To further protect our community, we have locked major token allocations using v
 
 - 📦 Community & Airdrop Allocation (25%):  
   Wallet: `4zYr7zzekDwJq9Jfn9rdPc49LpXvubxajjEQpp3EWBoa`  
-  [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/7XHk4vPjZbMceLrikhLEAczb3Tx6eTGRC6oLah7nYHTC)
+  [Streamflow Contract]([https://app.streamflow.finance/contract/solana/mainnet/6ikfGDHs6qSVURDAc4REAU98yV6g5VZH4jomvHS64dNr])
 
 - 🔗 LP Liquidity Locks: 
   [LP Lock Contract 1](https://app.streamflow.finance/contract/solana/mainnet/7XHk4vPjZbMceLrikhLEAczb3Tx6eTGRC6oLah7nYHTC)  
