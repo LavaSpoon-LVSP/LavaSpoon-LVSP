@@ -294,6 +294,40 @@ Only vision, tech, and transparency.
 
 → Follow the journey. Earn the rewards. Shape the future.
 
+---
+
+## ⚠️ Important Update on Token Transparency and Security
+
+The LavaSpoon (LVSP) team is committed to full transparency and maintaining the highest standards of security and trust within our community.  
+
+We want to clarify that no rug pulls or scams have occurred — previous tokens (LAVSP) were burned to prevent any confusion or misuse.  
+
+To further protect our community, we have locked major token allocations using verified Streamflow smart contracts, ensuring that marketing funds, team allocations, development budgets, community airdrops, and liquidity pools are fully locked and time-released transparently.
+
+### Key References for Verification:
+
+- 🔥 Burned Tokens Proof: 
+  [Burn Transaction on Solscan](https://solscan.io/tx/38SoaVSpoatSUuUmadAr56X7PDXc3R9y7GwpXwp4YWtTBWtgFxdmfzPhS2iyAj8ottSCc2yfk9Lvsjc2UwLRnP3S?cluster=mainnet-beta)
+
+- 🔒 Locked Wallets (Streamflow Contracts):  
+  - Marketing & Partnerships (10%):  
+    [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/HkW6vfYdsZYLjSZC5psVk5ddRGCChtMz9Ma9ZNz4BEKn)  
+  - AI Development & Research (40%):  
+    [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/3j5aF8iHqjHhijqpr9utSmp1RCyzp8pj95pUErKCCsey)  
+  - Team & Advisors (5%):  
+    [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/ESX7tPdv6Wskr5GiXoageCKzsvhcJyZA1uwRHN4t8f27)  
+
+- 📦 Community & Airdrop Allocation (25%):  
+  Wallet: `4zYr7zzekDwJq9Jfn9rdPc49LpXvubxajjEQpp3EWBoa`  
+  [Streamflow Contract](https://app.streamflow.finance/contract/solana/mainnet/7XHk4vPjZbMceLrikhLEAczb3Tx6eTGRC6oLah7nYHTC)
+
+- 🔗 LP Liquidity Locks: 
+  [LP Lock Contract 1](https://app.streamflow.finance/contract/solana/mainnet/7XHk4vPjZbMceLrikhLEAczb3Tx6eTGRC6oLah7nYHTC)  
+  [LP Lock Contract 2](https://app.streamflow.finance/contract/solana/mainnet/8LgK7RkrCvWgcsSH5eDUwEQFXDxCpVNRy2girCZQqXLe)  
+
+We encourage everyone to verify these contracts on-chain. We continue to engage with token rating platforms to correct outdated information impacting our visibility.  
+
+Thank you for your trust and support as we build LavaSpoon (LVSP) with integrity and transparency.
 
 
 
