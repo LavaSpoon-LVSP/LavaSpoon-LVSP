@@ -150,7 +150,7 @@ Standard: SPL Token
 ## 💬 Community & Socials
 
 - 📢 Telegram: [@lavaspoon1](https://t.me/lavaspoon1)  
-- 🐦 Twitter/X: [[@LavaSpoon_LVSP](https://twitter.com/LavaSpoon_LVSP) 
+- 🐦 Twitter/X: [@LavaSpoonLVSP](https://x.com/LavaSpoonLVSP?t=3ZOHJR2B70nj1A2tMmqY2A&s=08)
 - 📸 Instagram: [@lavaspoon_lvsp](https://instagram.com/lavaspoon_lvsp)  
 
 ---
