@@ -337,7 +337,7 @@ We are excited to share some important updates with our community:
 
 ## 🚀 Token Pool Update
 
-Today, 11 September 2025, LavaSpoon will add 5,000,000 LVSP tokens to the USDT pool.
+Today, 11 September 2025, LavaSpoon will add 3,000,000 LVSP tokens to the USDT pool.
 
 Currently, we have two liquidity pools available:
 
