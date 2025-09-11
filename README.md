@@ -8,7 +8,7 @@ Join us on this journey of innovation, ownership, and open creation.
 • 🔭 I’m currently working on LavaSpoon-LVSP  
 • 🌱 Learning how to build web projects, smart contracts & creative tools  
 • 💬 Ask me about anything design, crypto, or AI-related  
-• 📫 Telegram:  https://t.me/lavaspoonlvsp  
+• 📫 Telegram: https://t.me/lavaspoon_lvsp
 • ⚡ Fun fact: LVSP = 🔥 + 🥄  
 
 ---
