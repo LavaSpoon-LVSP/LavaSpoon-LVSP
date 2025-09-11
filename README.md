@@ -91,9 +91,10 @@ A world where anyone can contribute to, benefit from, and co-own the next genera
 ---
 
 ## Join Us  
-• Telegram: https://t.me/lavaspoon_lvsp  
-• Twitter/X: @LavaSpoon_LVSP  
-• Instagram: @lavaspoon_lvsp  
+- 🌐 Website: [lavaspoon.com](https://lavaspoon.com)
+- 📲 TikTok: [@lavaspoon_LVSP](https://www.tiktok.com/@lavaspoon_lvsp?_t=ZG-8wcyVTPJtXk&_r=1)
+- 🧵 Twitter: [@lavaspoon_LVSP](https://x.com/LavaSpoon_LVSP?t=tfyDfLknDWbdgvvW5oiAdw&s=08)
+- 📬 Telegram: [lavaspoonlvsp](https://t.me/boost/lavaspoon_lvsp)
 
 ---
 
