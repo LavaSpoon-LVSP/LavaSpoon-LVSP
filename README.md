@@ -327,6 +327,8 @@ To further protect our community, we have locked major token allocations using v
 
 We encourage everyone to verify these contracts on-chain. We continue to engage with token rating platforms to correct outdated information impacting our visibility.  
 
+Thank you for your trust and support as we build LavaSpoon (LVSP) with integrity and transparency.
+
 ---
 
 # LavaSpoon (LVSP) Update – 11 September 2025
@@ -358,6 +360,6 @@ The platform will include:
 Official announcements about airdrops and giveaways will be shared exclusively on our Telegram platform. Make sure you join to stay informed!
 
 
-Thank you for your trust and support as we build LavaSpoon (LVSP) with integrity and transparency.
+
 
 
