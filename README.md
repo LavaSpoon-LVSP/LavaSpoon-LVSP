@@ -327,8 +327,37 @@ To further protect our community, we have locked major token allocations using v
 
 We encourage everyone to verify these contracts on-chain. We continue to engage with token rating platforms to correct outdated information impacting our visibility.  
 
+---
+
+# LavaSpoon (LVSP) Update – 11 September 2025
+
+We are excited to share some important updates with our community:
+
+## 🚀 Token Pool Update
+
+Today, 11 September 2025, LavaSpoon will add 5,000,000 LVSP tokens to the USDT pool.
+
+Currently, we have two liquidity pools available:
+
+* LVSP / SOL
+* LVSP / USDT
+
+This gives our community more flexibility and stability when trading LavaSpoon.
+
+## 🌐 New Platform Coming Soon
+
+We are working on a brand-new platform that will be launched soon on our official website: [lavaspoon.com](https://lavaspoon.com).
+
+The platform will include:
+
+* Opportunities to win free LVSP tokens
+* Airdrop campaigns to reward our community
+
+## 📢 Stay Updated
+
+Official announcements about airdrops and giveaways will be shared exclusively on our Telegram platform. Make sure you join to stay informed!
+
+
 Thank you for your trust and support as we build LavaSpoon (LVSP) with integrity and transparency.
-
-
 
 
