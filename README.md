@@ -47,7 +47,7 @@ Together, they symbolize fluid creativity with real-world impact.
 ---
 
 ## Stay tuned for more updates, launches, and tools.  
-Join our community: ([https://t.me/lavaspoonlvsp](https://t.me/lavaspoon_lvsp)
+Join our community: [https://t.me/lavaspoonlvsp](https://t.me/lavaspoon_lvsp)
 
 ---
 
