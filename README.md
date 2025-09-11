@@ -91,10 +91,13 @@ A world where anyone can contribute to, benefit from, and co-own the next genera
 ---
 
 ## Join Us  
+
 - 🌐 Website: [lavaspoon.com](https://lavaspoon.com)
 - 📲 TikTok: [@lavaspoon_LVSP](https://www.tiktok.com/@lavaspoon_lvsp?_t=ZG-8wcyVTPJtXk&_r=1)
-- 🧵 Twitter: [@lavaspoon_LVSP](https://x.com/LavaSpoonLVSP?t=3ZOHJR2B70nj1A2tMmqY2A&s=08).
-- 📬 Telegram: [lavaspoonlvsp](https://t.me/boost/lavaspoon_lvsp)
+- 🧵 Twitter: [@lavaspoon_LVSP](https://x.com/LavaSpoonLVSP?t=3ZOHJR2B70nj1A2tMmqY2A&s=08)
+- 📬 Telegram: [lavaspoonlvsp](https://t.me/boost/lavaspoon1)
+- 📸 Instagram: [@lavaspoon_lvsp](https://instagram.com/lavaspoon_lvsp)
+- 📘 Facebook: [LavaSpoon](https://www.facebook.com/infoLavaSpoon?rdid=SyQQ3cdWC0xZloee&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16W4dYbuqK%2F#)
 
 ---
 
@@ -150,10 +153,13 @@ Standard: SPL Token
 
 ## 💬 Community & Socials
 
-- 📢 Telegram: [@lavaspoon1](https://t.me/lavaspoon1)  
-- 🐦 Twitter/X: [@LavaSpoonLVSP](https://x.com/LavaSpoonLVSP?t=3ZOHJR2B70nj1A2tMmqY2A&s=08)
-- 📸 Instagram: [@lavaspoon_lvsp](https://instagram.com/lavaspoon_lvsp)  
-
+- 🌐 Website: [lavaspoon.com](https://lavaspoon.com)
+- 📲 TikTok: [@lavaspoon_LVSP](https://www.tiktok.com/@lavaspoon_lvsp?_t=ZG-8wcyVTPJtXk&_r=1)
+- 🧵 Twitter: [@lavaspoon_LVSP](https://x.com/LavaSpoonLVSP?t=3ZOHJR2B70nj1A2tMmqY2A&s=08)
+- 📬 Telegram: [lavaspoonlvsp](https://t.me/boost/lavaspoon1)
+- 📸 Instagram: [@lavaspoon_lvsp](https://instagram.com/lavaspoon_lvsp)
+- 📘 Facebook: [LavaSpoon](https://www.facebook.com/infoLavaSpoon?rdid=SyQQ3cdWC0xZloee&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16W4dYbuqK%2F#)
+  
 ---
 
 ## 🔭 I'm currently working on:
@@ -173,9 +179,6 @@ Standard: SPL Token
 
 ---
 
-
-
----
 
 ## 🔁 Liquidity Correction & Transparency Statement
 
@@ -212,8 +215,10 @@ Transparency is key — Solana blockchain records are open and verifiable. View 
 
 - 🌐 Website: [lavaspoon.com](https://lavaspoon.com)
 - 📲 TikTok: [@lavaspoon_LVSP](https://www.tiktok.com/@lavaspoon_lvsp?_t=ZG-8wcyVTPJtXk&_r=1)
-- 🧵 Twitter: [@lavaspoon_LVSP](https://x.com/LavaSpoon_LVSP?t=tfyDfLknDWbdgvvW5oiAdw&s=08)
-- 📬 Telegram: [lavaspoonlvsp](https://t.me/boost/lavaspoon_lvsp)
+- 🧵 Twitter: [@lavaspoon_LVSP](https://x.com/LavaSpoonLVSP?t=3ZOHJR2B70nj1A2tMmqY2A&s=08)
+- 📬 Telegram: [lavaspoonlvsp](https://t.me/boost/lavaspoon1)
+- 📸 Instagram: [@lavaspoon_lvsp](https://instagram.com/lavaspoon_lvsp)
+- 📘 Facebook: [LavaSpoon](https://www.facebook.com/infoLavaSpoon?rdid=SyQQ3cdWC0xZloee&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16W4dYbuqK%2F#)
 
 ---
 
@@ -360,6 +365,12 @@ The platform will include:
 
 Official announcements about airdrops and giveaways will be shared exclusively on our Telegram platform. Make sure you join to stay informed!
 
+- 🌐 Website: [lavaspoon.com](https://lavaspoon.com)
+- 📲 TikTok: [@lavaspoon_LVSP](https://www.tiktok.com/@lavaspoon_lvsp?_t=ZG-8wcyVTPJtXk&_r=1)
+- 🧵 Twitter: [@lavaspoon_LVSP](https://x.com/LavaSpoonLVSP?t=3ZOHJR2B70nj1A2tMmqY2A&s=08)
+- 📬 Telegram: [lavaspoonlvsp](https://t.me/boost/lavaspoon1)
+- 📸 Instagram: [@lavaspoon_lvsp](https://instagram.com/lavaspoon_lvsp)
+- 📘 Facebook: [LavaSpoon](https://www.facebook.com/infoLavaSpoon?rdid=SyQQ3cdWC0xZloee&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16W4dYbuqK%2F#)
 
 
 
