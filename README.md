@@ -372,6 +372,48 @@ Official announcements about airdrops and giveaways will be shared exclusively o
 - 📸 Instagram: [@lavaspoon_lvsp](https://instagram.com/lavaspoon_lvsp)
 - 📘 Facebook: [LavaSpoon](https://www.facebook.com/infoLavaSpoon?rdid=SyQQ3cdWC0xZloee&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16W4dYbuqK%2F#)
 
+---
+
+# 🔒 Liquidity Lock Notice
+
+This document serves as proof that the LP (Liquidity Pool) tokens for this project are **locked until 1 March 2026** to ensure transparency and investor confidence.
+
+---
+
+## 📅 Lock Summary
+- **Locked asset:** LVSP LP tokens  
+- **Total locked:** 8,976.3 LVSP LP tokens  
+- **Lock expiry:** **2026-03-01 00:00:00 UTC** (1 March 2026)  
+- **Lock method:** LP tokens secured via **Streamflow Vesting/Lock Contracts**  
+
+---
+
+## 🏦 Timelock Contract Addresses & Streamflow Links
+
+1. **7,222 LVSP LP tokens**  
+   - Address: `7Ltvf6nbPYUnMi9bhzYxiAyzfbofDwbHpL6mTHiinjJG`  
+   - Streamflow: [View Lock](https://app.streamflow.finance/contract/solana/mainnet/CaqPF1N3yyPeCKoQVG3RCqdi4S5Tubb2cKB3xrnpofhq)
+
+2. **238.3 LVSP LP tokens**  
+   - Address: `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
+   - Streamflow: [View Lock](https://app.streamflow.finance/contract/solana/mainnet/2WfHirkUwFreSHimogjj2xDSEchyyHps8qkyHhseLMJg)
+
+3. **1,516 LVSP LP tokens**  
+   - Address: `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
+   - Streamflow: [View Lock](https://app.streamflow.finance/contract/solana/mainnet/A5f2gaQRhYJt7kWrUwBzsYipBE9b3LdBh2n6CLQrFgoF)
+
+---
+
+## ✅ How to Verify the Locks
+
+### 1. Streamflow Verification
+- Open the Streamflow links above.  
+- Confirm the locked balances (**7,222 LVSP**, **238.3 LVSP**, **1,516 LVSP**).  
+- Confirm the unlock date is set to **2026-03-01**.  
+
+### 2. Solana Explorer (optional manual check)
+Check balances and transactions directly via Solana Explorer:  
+
 
 
 
