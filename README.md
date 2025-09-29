@@ -428,7 +428,8 @@ Our team is proud to announce a new partnership with **[ViewAI.io](https://viewa
 ## 🤖 About the Chatbot
 - **Purpose:** A dedicated chatbot designed exclusively for **blockchain and crypto-related help**.  
 - **Current status:** **Beta version** – actively learning and collecting data to improve accuracy and usability.  
-- **Roadmap update:** We are officially **1 month ahead of schedule**, keeping us on track and even ahead of our original plans.  
+- **Roadmap update (29 September 2025):** We are officially 1 month ahead of schedule, keeping us on track and even ahead of our original plans.
+  
 
 ---
 
