@@ -414,6 +414,40 @@ This document serves as proof that the LP (Liquidity Pool) tokens for this proje
 ### 2. Solana Explorer (optional manual check)
 Check balances and transactions directly via Solana Explorer:  
 
+---
+
+# 🚀 Official Announcement
+
+We are excited to share a major update with our community! 🎉  
+
+Our team is proud to announce a new partnership with **[ViewAI.io](https://viewai.io/)** and the launch of our blockchain-focused chatbot:  
+👉 [https://chatbot.viewai.io/](https://chatbot.viewai.io/)
+
+---
+
+## 🤖 About the Chatbot
+- **Purpose:** A dedicated chatbot designed exclusively for **blockchain and crypto-related help**.  
+- **Current status:** **Beta version** – actively learning and collecting data to improve accuracy and usability.  
+- **Roadmap update:** We are officially **1 month ahead of schedule**, keeping us on track and even ahead of our original plans.  
+
+---
+
+## 🌍 Our Foundation
+This project is proudly built on the **LVSP Token (LavaSpoon)**, operating on the **Solana blockchain**.  
+
+---
+
+## 📅 What’s Next?
+- Continuous training and optimization of the chatbot.  
+- Community testing and feedback during beta.  
+- Scaling features and integrations in line with the LVSP ecosystem roadmap.  
+
+---
+
+## ✅ Closing Note
+We are thrilled to be on schedule, a month ahead of plan, and grateful for the support of our community. This is only the beginning of what we are building together!  
+
+Stay tuned for more updates and thank you for being part of the **LavaSpoon (LVSP)** journey. 🌱🔥
 
 
 
