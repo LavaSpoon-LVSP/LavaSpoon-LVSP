@@ -445,10 +445,80 @@ This project is proudly built on the **LVSP Token (LavaSpoon)**, operating on th
 
 ---
 
+# 📢 LavaSpoon (LVSP) Official Announcement – 16 October 2025
+
+We have some exciting updates to share with our community! 🎉
+
+**Today, 16 October 2025, we added 2.2 million LVSP tokens to the USDT liquidity pool** to strengthen trading and support the ecosystem.
+
+All LP tokens listed below are **fully locked** until the unlock date.
+
+---
+
+## 🏦 Timelock Contract Addresses & Streamflow Links
+
+1. **7,222 LVSP LP tokens**  
+   - Address: `7Ltvf6nbPYUnMi9bhzYxiAyzfbofDwbHpL6mTHiinjJG`  
+   - Streamflow: [View Lock](https://app.streamflow.finance/contract/solana/mainnet/CaqPF1N3yyPeCKoQVG3RCqdi4S5Tubb2cKB3xrnpofhq)
+
+2. **238.3 LVSP LP tokens**  
+   - Address: `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
+   - Streamflow: [View Lock](https://app.streamflow.finance/contract/solana/mainnet/2WfHirkUwFreSHimogjj2xDSEchyyHps8qkyHhseLMJg)
+
+3. **1,516 LVSP LP tokens**  
+   - Address: `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
+   - Streamflow: [View Lock](https://app.streamflow.finance/contract/solana/mainnet/A5f2gaQRhYJt7kWrUwBzsYipBE9b3LdBh2n6CLQrFgoF)
+
+4. **1,195.218 LVSP LP tokens**  
+   - Address: `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
+   - Streamflow: [View Lock](https://app.streamflow.finance/contract/solana/mainnet/Bh5ca3XaFZazSHzLrjrC12tGZgJWcxqHDLNDq65Cf8QG?new)
+
+---
+
+## ✅ How to Verify the Locks
+
+1. **Streamflow Verification**  
+   - Open the Streamflow links above.  
+   - Confirm the locked balances (7,222 LVSP, 238.3 LVSP, 1,516 LVSP, 1,195.218 LVSP).  
+   - Confirm the unlock date is set to **1 March 2026**.
+
+2. **Solana Explorer (optional manual check)**  
+   - Check balances and transactions directly via Solana Explorer:  
+     - https://explorer.solana.com/address/7Ltvf6nbPYUnMi9bhzYxiAyzfbofDwbHpL6mTHiinjJG?cluster=mainnet  
+     - https://explorer.solana.com/address/Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k?cluster=mainnet
+
+---
+
+## 🚀 Official Chatbot Announcement
+
+We are thrilled to announce a new partnership with **[ViewAI.io](https://viewai.io/)** and the launch of our blockchain-focused chatbot:  
+👉 [https://chatbot.viewai.io/](https://chatbot.viewai.io/)
+
+### 🤖 About the Chatbot
+- **Purpose:** Our dedicated chatbot continues to provide **blockchain and crypto-related support**, helping the community navigate the space with ease.  
+- **Current status:** Still in beta, the chatbot is **learning, evolving, and collecting feedback** to become smarter, faster, and more user-friendly every day.  
+- **Roadmap update (1 November 2025):** A **new roadmap for ViewAI and the chatbot** is coming soon! We’ll keep enhancing the chatbot with **more features, improved usability, and smarter responses** over time. Big things are on the horizon! 🚀  
+
+### 🌍 Our Foundation
+This project is proudly built on the **LVSP Token (LavaSpoon)**, operating on the **Solana blockchain**.  
+
+---
+
+## 🎮 What’s Next on the LavaSpoon Roadmap
+
+Things are about to get **spicy!** 🌶️ While we continue improving our chatbot, we’re secretly cooking up a brand-new project in the background:  
+
+**Tap-to-Earn Game – Win LVSP Tokens!**  
+- A fun and engaging mobile game where players can **tap, play, and earn LVSP tokens** as rewards.  
+- Designed to bring the community together while gamifying earning on the Solana blockchain.  
+- Full roadmap reveal coming soon – and trust us, it’s going to be **next-level exciting!** 💎🚀  
+
+---
+
 ## ✅ Closing Note
+
 We are thrilled to be on schedule, a month ahead of plan, and grateful for the support of our community. This is only the beginning of what we are building together!  
 
 Stay tuned for more updates and thank you for being part of the **LavaSpoon (LVSP)** journey. 🌱🔥
-
 
 
