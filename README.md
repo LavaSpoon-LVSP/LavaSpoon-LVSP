@@ -457,21 +457,27 @@ All LP tokens listed below are **fully locked** until the unlock date.
 
 ## 🏦 Timelock Contract Addresses & Streamflow Links
 
+## 💧 LVSP LP Token Locks  
+
 1. **7,222 LVSP LP tokens**  
-   - Address: `7Ltvf6nbPYUnMi9bhzYxiAyzfbofDwbHpL6mTHiinjJG`  
-   - Streamflow: [View Lock](https://app.streamflow.finance/contract/solana/mainnet/CaqPF1N3yyPeCKoQVG3RCqdi4S5Tubb2cKB3xrnpofhq)
+   - **Address:** `7Ltvf6nbPYUnMi9bhzYxiAyzfbofDwbHpL6mTHiinjJG`  
+   - **Streamflow:** [View Lock](https://app.streamflow.finance/contract/solana/mainnet/CaqPF1N3yyPeCKoQVG3RCqdi4S5Tubb2cKB3xrnpofhq)
 
 2. **238.3 LVSP LP tokens**  
-   - Address: `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
-   - Streamflow: [View Lock](https://app.streamflow.finance/contract/solana/mainnet/2WfHirkUwFreSHimogjj2xDSEchyyHps8qkyHhseLMJg)
+   - **Address:** `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
+   - **Streamflow:** [View Lock](https://app.streamflow.finance/contract/solana/mainnet/2WfHirkUwFreSHimogjj2xDSEchyyHps8qkyHhseLMJg)
 
 3. **1,516 LVSP LP tokens**  
-   - Address: `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
-   - Streamflow: [View Lock](https://app.streamflow.finance/contract/solana/mainnet/A5f2gaQRhYJt7kWrUwBzsYipBE9b3LdBh2n6CLQrFgoF)
+   - **Address:** `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
+   - **Streamflow:** [View Lock](https://app.streamflow.finance/contract/solana/mainnet/A5f2gaQRhYJt7kWrUwBzsYipBE9b3LdBh2n6CLQrFgoF)
 
 4. **1,195.218 LVSP LP tokens**  
-   - Address: `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
-   - Streamflow: [View Lock](https://app.streamflow.finance/contract/solana/mainnet/Bh5ca3XaFZazSHzLrjrC12tGZgJWcxqHDLNDq65Cf8QG?new)
+   - **Address:** `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
+   - **Streamflow:** [View Lock](https://app.streamflow.finance/contract/solana/mainnet/Bh5ca3XaFZazSHzLrjrC12tGZgJWcxqHDLNDq65Cf8QG?new)
+
+5. **198.1 LVSP LP tokens** *(Locked till 01 March 2026)*  
+   - **Address:** `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
+   - **Streamflow:** [View Lock] https://app.streamflow.finance/contract/solana/mainnet/ACJFdtNMjD1jvfS2yBMjgfMe9vLgvUNiXRJmkyG5eRAa
 
 ---
 
