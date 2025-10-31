@@ -477,7 +477,7 @@ All LP tokens listed below are **fully locked** until the unlock date.
 
 5. **198.1 LVSP LP tokens** *(Locked till 01 March 2026)*  
    - **Address:** `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`  
-   - **Streamflow:** [View Lock] https://app.streamflow.finance/contract/solana/mainnet/ACJFdtNMjD1jvfS2yBMjgfMe9vLgvUNiXRJmkyG5eRAa
+   - **Streamflow:** [View Lock](https://app.streamflow.finance/contract/solana/mainnet/ACJFdtNMjD1jvfS2yBMjgfMe9vLgvUNiXRJmkyG5eRAa)
 
 ---
 
