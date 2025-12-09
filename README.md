@@ -557,7 +557,21 @@ As we approach release, we will share:
 - Reward system details  
 - Community event announcements  
 
-Stay tuned for updates!
+---
 
+## 🔒 Lavaspoon Token Lock Update — 9 Dec 2025
+
+On **9 December 2025**, a total of **39.92 million Lavaspoon tokens** was locked to support the upcoming game release planned for early 2026.
+
+🔗 **View the Streamflow lock:**  
+https://app.streamflow.finance/contract/solana/mainnet/EaCy7XeGwmWtPpVkhEA9VrLs5yageT9jXaGrMrUK4fXW
+
+These tokens are reserved for:
+- In-game rewards  
+- Player incentives  
+- Community events  
+- Long-term ecosystem development  
+
+More updates will follow as we move closer to launch.
 
 
