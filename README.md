@@ -527,4 +527,37 @@ We are thrilled to be on schedule, a month ahead of plan, and grateful for the s
 
 Stay tuned for more updates and thank you for being part of the **LavaSpoon (LVSP)** journey. 🌱🔥
 
+---
+
+# 📢 Lavaspoon Token Lock Announcement
+
+We’re excited to announce an important update regarding the future of the **Lavaspoon ecosystem** and our upcoming **game release**, scheduled around **February 2026**.
+
+## 🔒 Token Lock Details
+A total of **19.82 million Lavaspoon tokens** have been **locked** until **1 February 2026**.
+
+👉 **View the lock on Streamflow:**  
+https://app.streamflow.finance/contract/solana/mainnet/4R2s82s9DQZvyD2CE1MMefhnAxh4vEgY9LZtY1xyV1BK
+
+This lock ensures stability, transparency, and proper allocation of tokens for the game economy.
+
+## 🎮 Purpose of the Lock
+These tokens will be used for:
+
+- Player rewards  
+- In-game distribution  
+- Ecosystem growth  
+- Community engagement events  
+
+## 🚀 What’s Next
+As we approach release, we will share:
+
+- Gameplay previews  
+- Token utility breakdowns  
+- Reward system details  
+- Community event announcements  
+
+Stay tuned for updates!
+
+
 
