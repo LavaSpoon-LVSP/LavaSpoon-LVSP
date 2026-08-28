@@ -1,6 +1,6 @@
 # Welcome to LavaSpoon (LVSP) 👋 
 
-<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/85a074ba-8c07-484e-8abb-02dde3116cf3" />
+<img width="256" height="256" alt="logo" src="https://github.com/user-attachments/assets/0ee19cdd-39e0-4150-9ad3-7c60e85ca7dc" />
 
 LavaSpoon (LVSP) is building the future of digital creativity and decentralized collaboration.  
 Join us on this journey of innovation, ownership, and open creation.
