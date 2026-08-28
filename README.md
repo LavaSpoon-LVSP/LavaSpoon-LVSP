@@ -639,5 +639,40 @@ These locks provide transparent, on-chain verification of the current LVSP alloc
 
 LavaSpoon (LVSP) remains committed to transparent token management, publicly verifiable information, and long-term community trust.
 
+---
+
+## 🌋🥄 Something Fun Is Cooking... — Volcano Spoon 🎮🔥
+
+Get ready, LVSP community — **something exciting is coming!** 🚀
+
+We are currently working on our upcoming game, **Volcano Spoon** 🌋🥄🎮.
+
+The game is still under development, but we are building it with one goal in mind: **make playing fun while giving the community a chance to earn LVSP through gameplay and rewards.** 🏆🪙
+
+### 🎯 39.93M LVSP Reserved for Gameplay Rewards
+
+A total of **39.93M LVSP** has been kept aside specifically for the future **Volcano Spoon** ecosystem.
+
+These tokens are intended to be used for:
+
+* 🏆 **Game-winning rewards**
+* 🎮 **Gameplay-based token distribution**
+* 🎁 **Special challenges and events**
+* 🥇 **Competitions and leaderboard rewards**
+* 🌋 **Future Volcano Spoon community activities**
+
+The idea is simple:
+
+**Play → Compete → Win → Earn LVSP!** 🎮🔥🥄
+
+We are still working behind the scenes to develop and refine **Volcano Spoon**, so more details about the gameplay, reward system, launch, and distribution mechanics will be announced when everything is ready.
+
+🌋 **The volcano is heating up...**
+
+🥄 **The Spoon is coming.**
+
+🎮 **Volcano Spoon — play for the thrill, compete for the LVSP.**
+
+**More coming soon... 🚀**
 
 
