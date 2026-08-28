@@ -574,4 +574,70 @@ These tokens are reserved for:
 
 More updates will follow as we move closer to launch.
 
+---
+
+# ⚠️ Important Update — LVSP Token Locks & Transparency
+
+The LavaSpoon (LVSP) team is committed to full transparency and maintaining the highest standards of security and trust within our community.
+
+As part of our continued commitment to transparency and community protection, major LVSP allocations and liquidity are locked through **verified Streamflow smart contracts**.
+
+The current lock period extends until **1 March 2030**.
+
+## 🔐 Current LVSP Locked Allocations
+
+### 4.9646M LVSP
+
+* **Wallet:** `2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR`
+* **Streamflow Contract ID:** `FRo1oUpAVowpfooRB5Leq4EAMU77qxUnL3QYQz5tqvmB`
+* 🔒 **Locked until:** **1 March 2030**
+* 🔗 [View Streamflow Lock](https://app.streamflow.finance/contract/solana/mainnet/FRo1oUpAVowpfooRB5Leq4EAMU77qxUnL3QYQz5tqvmB)
+
+### 9.9313M LVSP
+
+* **Wallet:** `2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR`
+* **Streamflow Contract ID:** `EwfE7GxXHk1d8n8c4q9cxmiLDpUoJHDKVTwh5NEqYyJV`
+* 🔒 **Locked until:** **1 March 2030**
+* 🔗 [View Streamflow Lock](https://app.streamflow.finance/contract/solana/mainnet/EwfE7GxXHk1d8n8c4q9cxmiLDpUoJHDKVTwh5NEqYyJV)
+
+### 19.7263M LVSP
+
+* **Wallet:** `2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR`
+* **Streamflow Contract ID:** `D9JqzUY3dGrffhustAaEExWGsasekHkQpW7QGhfNyCNR`
+* 🔒 **Locked until:** **1 March 2030**
+* 🔗 [View Streamflow Lock](https://app.streamflow.finance/contract/solana/mainnet/D9JqzUY3dGrffhustAaEExWGsasekHkQpW7QGhfNyCNR)
+
+## 💧 LP Liquidity Locks
+
+### LP Lock — 7,186 LVSP
+
+* **Wallet:** `7Ltvf6nbPYUnMi9bhzYxiAyzfbofDwbHpL6mTHiinjJG`
+* **Streamflow Contract ID:** `BxrtVfjTrHpxJ8mtS7PpUKz1g17AdZBtJdta9VHjRYwj`
+* 🔒 **Locked until:** **1 March 2030**
+* 🔗 [View Streamflow LP Lock](https://app.streamflow.finance/contract/solana/mainnet/BxrtVfjTrHpxJ8mtS7PpUKz1g17AdZBtJdta9VHjRYwj)
+
+### LP Lock — 237.1 LVSP
+
+* **Wallet:** `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`
+* **Streamflow Contract ID:** `7zzdXtVA1NhisiKTPwu3XCoNshg2dEB9n49oyQ5DjdBD`
+* 🔒 **Locked until:** **1 March 2030**
+* 🔗 [View Streamflow LP Lock](https://app.streamflow.finance/contract/solana/mainnet/7zzdXtVA1NhisiKTPwu3XCoNshg2dEB9n49oyQ5DjdBD)
+
+## 🔎 Verification
+
+We encourage everyone to independently verify the wallet addresses and Streamflow contracts on-chain.
+
+All lock information listed above is publicly verifiable through the corresponding Streamflow contracts.
+
+These locks provide transparent, on-chain verification of the current LVSP allocations and liquidity lock periods.
+
+## 📅 Update Information
+
+**Last updated:** 28 August 2026
+
+**Current lock period:** Until **1 March 2030**
+
+LavaSpoon (LVSP) remains committed to transparent token management, publicly verifiable information, and long-term community trust.
+
+
 
