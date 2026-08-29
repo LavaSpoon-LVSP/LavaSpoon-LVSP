@@ -682,4 +682,24 @@ We are still working behind the scenes to develop and refine **Volcano Spoon**, 
 
 **More coming soon... 🚀**
 
+---
+
+## 🌋🥄 Volcano Spoon — Gameplay Reserve Update 🎮🤖
+
+We’re still working hard on **Volcano Spoon** 🌋🥄🎮, our upcoming game featuring **AI-powered gameplay elements** 🤖.
+
+To prepare for the game and future player rewards, **39.7309M LVSP** has been locked through Streamflow.
+
+* 💰 **Amount:** 39.7309M LVSP
+* 🔒 **Locked until:** **1 September 2026**
+* 👛 **Wallet:** `2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR`
+* 🔗 [View Streamflow Lock](https://app.streamflow.finance/contract/solana/mainnet/7yUbgHwUsz9HxbPCDtLYKo7YLTA1Muo7DyE286wxKTX4?new)
+
+These tokens are reserved for **Volcano Spoon gameplay, AI features, competitions and player rewards**.
+
+🎮 **Play → 🤖 AI → 🏆 Compete → 🪙 Earn LVSP!**
+
+The game is still in development. More details and the launch date will be announced when ready.
+
+🌋 **The volcano is heating up... 🥄🔥**
 
