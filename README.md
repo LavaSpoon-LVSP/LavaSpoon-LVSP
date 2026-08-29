@@ -623,6 +623,13 @@ The current lock period extends until **1 March 2030**.
 * 🔒 **Locked until:** **1 March 2030**
 * 🔗 [View Streamflow LP Lock](https://app.streamflow.finance/contract/solana/mainnet/7zzdXtVA1NhisiKTPwu3XCoNshg2dEB9n49oyQ5DjdBD)
 
+### LP Lock — 2,895 LVSP
+
+* **Wallet:** `Hcht8WWsnPxa6yBVfW99BxHLAVVnMuJqzLUErPNkqp1k`
+* **Streamflow Contract ID:** `CHnxrkVY1HNbsFJRaYoFmW53muGKWcQWLpEP2KEuUNrm`
+* 🔒 **Locked until:** **1 March 2030**
+* 🔗 [View Streamflow LP Lock](https://app.streamflow.finance/contract/solana/mainnet/CHnxrkVY1HNbsFJRaYoFmW53muGKWcQWLpEP2KEuUNrm?new)  
+
 ## 🔎 Verification
 
 We encourage everyone to independently verify the wallet addresses and Streamflow contracts on-chain.
