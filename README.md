@@ -726,24 +726,31 @@ The game is still in development. More details and the launch date will be annou
 
 ---
 
-## 🌋🥄 Volcano Spoon — Gameplay Reserve Update 🎮🤖
+## 🌋🥄 Volcano Spoon — We’re Getting Close 🎮
 
-We’re continuing to work on **Volcano Spoon** 🌋🥄🎮, our upcoming game featuring **AI-powered gameplay elements** 🤖.
+Development of **Volcano Spoon** has taken a little more time than we originally expected.
 
-To support the game economy and future player rewards, **35M LVSP** has been locked through Streamflow.
+We’ve been working through the final parts of the game, improving systems and making sure the experience is where we want it to be before putting it in players’ hands.
 
-- 💰 **Amount:** 35M LVSP
-- 🔓 **Unlocked:** 0%
-- 🔒 **Unlock time:** **January 15, 2027 at 12:00 AM GMT+2**
+The good news: **we’re getting very close.** 🔥
+
+There are still a few things we want to finish and polish, but we’re now approaching the final stage of development.
+
+To give the project the additional time it needs, we’ve also secured another **35M LVSP** in a new Streamflow lock.
+
+- 💰 **Amount Locked:** 35M LVSP
+- 🔒 **Locked Until:** **January 15, 2027 at 12:00 AM GMT+2**
 - 🪙 **LVSP Token:** [`2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR`](https://app.streamflow.finance/token-dashboard/solana/mainnet/2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR)
 - 📄 **Streamflow Contract:** [`H147AoTRFvTLXey1Eiz2fP5VtDMdFndYQ6LHzadP1RzB`](https://app.streamflow.finance/contract/solana/mainnet/H147AoTRFvTLXey1Eiz2fP5VtDMdFndYQ6LHzadP1RzB?new)
 
 > 🔐 **This contract is immutable and can neither be canceled nor transferred.**
 
-These tokens are reserved for **Volcano Spoon gameplay, AI features, competitions, and player rewards**.
+These tokens remain reserved for the **Volcano Spoon ecosystem**, including gameplay, AI-powered features, competitions and future player rewards.
 
-### 🎮 Play → 🤖 AI → 🏆 Compete → 🪙 Earn LVSP!
+We know some of you have been waiting to see what we’ve been building, and we’re excited that the finish line is finally coming into sight.
 
-The game is still in development. More details and the launch date will be announced when ready.
+A little more time. A little more polishing. Then it’s time to open the volcano. 🌋
 
-**🌋 The volcano is heating up... 🥄🔥**
+🎮 **Play → 🤖 AI → 🏆 Compete → 🪙 Earn LVSP**
+
+**The volcano has been heating up for a while… now we’re almost ready to let it erupt. 🌋🔥🥄**
